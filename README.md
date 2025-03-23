@@ -1,4 +1,4 @@
-# 🛠️ Recyclable and Low Fat Products
+# 🛠️ Recyclable and Low Fat Products (LEETCODE PROBLEM)
 
 ## 📌 Problem Description
 We have a table called `Products` that holds information about different products. It looks like this:
